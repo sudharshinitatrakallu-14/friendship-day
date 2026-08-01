@@ -8,9 +8,9 @@ const friends = {
 
 Appude oo 10 months ayinda manam matladadam start chesi? Roju yedo okati matladadam is not so easy, but yento start cheste aagade matallu. Neetho yela ala ,yedo magic ayithe undhi. Anduke andaru neetho undali anukuntaru.
 
-But appudu appudu koncham over gaa chestha... "yee yendi naa frienduu, yendi merantha yevaru?" anatu 😂. But yahh tikka kadha naaku, athe athe alane untadhilee.
+But appudu appudu koncham over gaa chestha... "yee yendi naa frienduu, yendi merantha yevaru?" anatu 😂. But yahh tikka kadha naaku, anthe anthe alane untadhilee.
 
-Asalu yemi matladuthunano telidam ledu, yedo vagesthunaa, yedo cheppali anukuna, yedo type chesthunaa... asalu artham kavu naaku. Nuvvu okosari chala close anipistavu, inkosari dooram peduthunavu anipistadhi. Okosari "naavadelee, entha visiginchachu" anipistadhi, inkosari "maanakem avuthadu?" ani gelaka
+Asalu yemi matladuthunano telidam ledu, yedo vagesthunaa, yedo cheppali anukuna, yedo type chesthunaa... asalu artham kavu naaku. Nuvvu okosari chala close anipistavu, inkosari dooram peduthunavu anipistadhi. Okosari "naavadelee, enthaina visiginchachu" anipistadhi, inkosari "maanakem avuthadu?" ani gelaka
 baga ekkuva alochistha kada 😂.
 
 Ayina nannu yela baristhunavu saami? 
@@ -29,7 +29,13 @@ yepudu aduguthavu gaa what am i to u anii chepthuna chudhu more than a friend sp
 neeku nenu telika mundu nunchi nee peru ooru tho saha ani telusu naaku (ammo chepestunanaa anii)
 appppeesaaaaa
 tikka tikka gaa cheyaku ala chestenee mental vachedhi naaku
-but u have always been an exception litee lee mavadegaa anii 
+vadileyali anipisthe chepu nee vaipukuda ranuu asllu mayam ayipotha like i never existed 
+ayina nenu yentha chepina neeku soodhe joke yee lee 
+naaku nuvvu okadive friend ayipoyavu kabati antha easy gaa vadalekapothunaa 
+neeku aa kastam undadhulee u can easily move on neeku aa friend circle undhi etu kakapothe attu ,yahh adhi manchidhee alane undali leeee , nenu ala undatam nerchukovali 
+yepudu vishwajit vishwajit ante bagodhu gaa tana space kuda elali gaaa (hahaaahahaaa)
+inka ante
+u have always been an exception litee lee mavadegaa anii 
 hmmmmmmmmmmm yento lee inka aapestha mari yekuva ayithundhi 
 
 
