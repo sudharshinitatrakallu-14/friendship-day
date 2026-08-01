@@ -300,3 +300,31 @@ document.getElementById("backBtn")?.addEventListener("click", () => {
 
   window.scrollTo({ top: 0, behavior: "smooth" });
 });
+
+(() => {
+ const gate=document.getElementById("midnightGate"); if(!gate)return;
+ const h=document.getElementById("cdHours"),m=document.getElementById("cdMinutes"),s=document.getElementById("cdSeconds");
+ const jt=document.getElementById("jokeText"),je=document.getElementById("jokeEmoji");
+ const jokes=[
+ ["😂","Friendship Day ki intha build-up isthe... cinema interval lo kuda inta tension undadu ra babu."],
+ ["👀","Orey wait cheyyi... surprise ippude open chesthe surprise ela avuthundi? 😂"],
+ ["🤣","Nee patience ni test cheyyadanike ee timer. Pass ayithe friendship continue."],
+ ["😌","12 varaku wait cheyyi. Appati varaku nee curiosity ni enjoy cheyyi."],
+ ["🫢","Plot twist: nuvvu ee timer ni 17 times refresh chesav ani naaku telusu."],
+ ["💀","12 ki open avuthundi. Mundhe open cheyyadaniki tricks try cheyyaku hacker garu."],
+ ["🫶","Some surprises are worth waiting for. Konchem patience, ra babu."]
+ ];
+ let ji=0;
+ function joke(){const x=jokes[ji++%jokes.length];je.textContent=x[0];jt.textContent=x[1]}
+ joke();setInterval(joke,4500);
+ function tick(){
+   const now=new Date();
+   const ist=new Date(now.toLocaleString("en-US",{timeZone:"Asia/Kolkata"}));
+   const target=new Date(ist);target.setHours(24,0,0,0);
+   let d=target-ist;
+   if(d<=0){gate.classList.add("hide");clearInterval(t);return}
+   let q=Math.floor(d/1000),hh=Math.floor(q/3600),mm=Math.floor(q%3600/60),ss=q%60;
+   h.textContent=String(hh).padStart(2,"0");m.textContent=String(mm).padStart(2,"0");s.textContent=String(ss).padStart(2,"0");
+ }
+ tick();const t=setInterval(tick,1000);
+})();
