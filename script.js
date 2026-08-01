@@ -4,28 +4,47 @@ const friends = {
     music: "assets/soodhi.mp3",
     intro: "Okayyy Soodhiiii... your secret corner is ready 👀",
     memory: "Roju yedo oka penta neeku naaku 😂",
-    message: `HMMMMMMMM... mee gurinchi cheppali ante naaku oka janma chaladhu yemo. Ee muhurtham lo tagilavu kani bale tagilavu. Inka cheppali ante — one of the best things happened (eku murisipoku 😭).
+    message: `HMMMMMMMM... mee gurinchi cheppali ante naaku oka janma chaladhu yemo. yee muhurtham lo tagilavo kani bale tagilavuu. inka cheppali ante — one of the best things happened (eku murisipoku 😭).
 
-Appude oo 10 months ayinda manam matladadam start chesi? Roju yedo okati matladadam is not so easy, but yento start cheste aagade matallu. Neetho yela ala yemoo yedo magic ayithe undhi. Anduke andaru neetho undali anukuntaru.
+Appude oo 10 months ayinda manam matladadam start chesi? Roju yedo okati matladadam is not so easy, but yento start cheste aagade matallu. Neetho yela ala ,yedo magic ayithe undhi. Anduke andaru neetho undali anukuntaru.
 
 But appudu appudu koncham over gaa chestha... "yee yendi naa frienduu, yendi merantha yevaru?" anatu 😂. But yahh tikka kadha naaku, anthe anthe alane untadhilee.
 
-Asalu yemi matladuthunano telidam ledu, yedo vagesthunaa, yedo cheppali anukuna, yedo type chesthunaa... asalu artham kavu nuvvu naaku. okosari chala close anipistavu, inkosari dooram peduthunavu anipistadhi. Okosari "naavadelee, enthaina visiginchachu" anipistadhi, inkosari "maanakem avuthadu?" ani gelaka (hahaha) baga ekkuva alochistunaaa kada 😂.
+Asalu yemi matladuthunano telidam ledu, yedo vagesthunaa, yedo cheppali anukuna, yedo type chesthunaa... asalu artham kavu naaku. Nuvvu okosari chala close anipistavu, inkosari dooram peduthunavu anipistadhi. Okosari "naavadelee, enthaina visiginchachu" anipistadhi, inkosari "maanakem avuthadu?" ani gelaka
+baga ekkuva alochistha kada 😂.
 
-Ayina nannu yela baristhunavu saami? Nuvvu 
- Vishwajith Garu. Endukoo meeru yentha aatapatinchina yemi analekapothunaa.nachestunaru yemoo anipistundhi. Ala avakudadheeeeee ani alochisthunaa
- sare lee.
+Ayina nannu yela baristhunavu saami? 
+Nuvvu anthe Vishwajith Garu. Endukoo meeru yentha aatapatinchina yemi analekapothunaa.  nachestunaru yemoo anipistundhi. Ala avakudadheeee ani alochisthunaa sare lee.
 
-Edantha soodhi kani chudu — inkosari "potti" ante maatram  bagodhu neeku jagarthaaa 😂. Ee friendship day ki unnava, next vache vatiki unte kuda chala baguntundhi.
+Edantha soodhi kani chudu — inkosari "potti" ante maatram bagodhu chepthunaa jagarthaaa 😂. Ee friendship day ki unnava, next vache vatiki unte kuda chala baguntundhi.
 
 Alavathu poyindi kada ani maatram vadilekandi. Meeru antaru gaa "gap vasthe marchipotha" ani. Kasta meeku unna burra loo (ante ledhu lee) koncham ee half-ticket ki kuda evandi anthe.
-oooooooooo inka nenu elane vaganu ante nijallu kakestha... iddariki manchidhi kadhu adhi 😭.
-artham ayye varaku chepu cheskunta artham anthe gaaa naaku yenduku artham kavu ante okosari pakka serious antavu mala kodhisepu taravata ledhu yedo ninu aatapatincheki antavu ante yenti nenu jokeee aa anipisthadhi 
-hmmmmmmmmmmmmmmmm soddhi soodhi soodhee leeee 
-last kiii very happy to have youuu asa a friend 
-yepudu aduguthavu gaa what am i to u anii chepthuna more than a friend special raa nuvvu naaku tikka tikka gaa chesthe nee mental vachedhi naaku but u have always been an exception litee lee mavadegaa anii hmmmmmmmmmmm yento lee inka aapestha mari yekuva ayithundhi 
 
- HAPPY FRIENDSHIP DAY RAA SOODHHIIIII 💙
+ooooooo inka nenu elane  vaganu  ante nijallu kakestha... iddariki manchidhi kadhu adhi 😭.
+yepudina 
+artham ayye varaku chepu cheskunta  anthe gaaa (give up yenduku chestavu) naaku yenduku artham kavu ante okosari pakka serious antavuu mala kodhisepu taravata ledhu yedo ninu aatapatincheki antavu ante yenti nenu jokeee aa anipisthadhi 
+hmmmmmmmmmmmmmmmm soddhi soodhi soodhee leeee 
+last kiii very happy to have youuu as a friend 
+yepudu aduguthavu gaa what am i to u anii chepthuna chudhu more than a friend special raa soodhi nuvvu
+neeku nenu telika mundu nunchi nee peru ooru tho saha ani telusu naaku (ammo chepestunanaa anii)
+appppeesaaaaa
+tikka tikka gaa cheyaku ala chestenee mental vachedhi naaku
+vadileyali anipisthe chepu nee vaipukuda ranuu asllu mayam ayipotha like i never existed 
+ayina nenu yentha chepina neeku soodhe joke yee lee 
+naaku nuvvu okadive friend ayipoyavu kabati antha easy gaa vadalekapothunaa 
+neeku aa kastam undadhulee u can easily move on neeku aa friend circle undhi etu kakapothe attu ,yahh adhi manchidhee alane undali leeee , nenu ala undatam nerchukovali 
+yepudu vishwajit vishwajit ante bagodhu gaa tana space kuda elali gaaa (hahaaahahaaa)
+inka ante
+u have always been an exception litee lee mavadegaa anii 
+hmmmmmmmmmmm yento lee inka aapestha mari yekuva ayithundhi 
+naakoo doubtuuu yenduku neeku antha pogaruuuuuu soodhi mokam andangaa untavu anekadha okaru kaka pothe inkokaru easy gaa padipotharu ani kadha(hahahahahaah)
+kani pinchavu kani chala ante chala chala ante chala chala chala yekuva neekkuuu pogaruuuuuuuuuuuu (certified by Sudharshini)
+nijam gaa baguntavu lee andagadiviiiii (eyuuuuuu)
+inka chepali ante yekada kopam tepistavu ante the way u ignoreeee(BP BP Vatadhi naakuuu) nuvvu eemata oopukovu ani telusu kani adheee nijammm bale ignore chestavuuuu 
+nenu nerchukovali asallu naaku ala undatam chethakadheeee nercheskuntalee neetho unte inkonirojjuulluu (eeeeeeeeee)
+
+
+HAPPY FRIENDSHIP DAY RAA SOODHHIIIII 💙
 
 Firstuu namaskaram ki prathi namaskaram petadam nerchukoo! Yentha naakan pedha ayithe maatram antha pogara nee skaram karam naa mundu kadhu. Tirigi chepadam nerchukoooo 😂
 
