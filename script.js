@@ -37,6 +37,9 @@ yepudu vishwajit vishwajit ante bagodhu gaa tana space kuda elali gaaa (hahaaaha
 inka ante
 u have always been an exception litee lee mavadegaa anii 
 hmmmmmmmmmmm yento lee inka aapestha mari yekuva ayithundhi 
+naakoo doubtuuu yenduku neeku antha pogaruuuuuu soodhi mokam andangaa untavu anekadha okaru kaka pothe inkokaru easy gaa padipotharu ani kadha(hahahahahaah)
+kani pinchavu kani chala ante chala chala ante chala chala chala yekuva neekkuuu pogaruuuuuuuuuuuu (certified by Sudharshini)
+nijam gaa baguntavu lee andagadiviiiii (eyuuuuuu)
 
 
 HAPPY FRIENDSHIP DAY RAA SOODHHIIIII 💙
