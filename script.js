@@ -140,6 +140,8 @@ Yedo ala ala silent gaa untavu kani neeku kuda nenu ante ekkado koncham istam ka
 I am very thankful and happyyy to have you as my friend. Roju soodhi cheppi cheppi visikinchinaa inka naa soodhi vintavu. Nenu pette dozen reels annitiki react avuthavu. Inkem kavali chepu naakuuu?
 
 Intha kanna I love you Lakyaaa, love you love you loveeeeeeeee youuuuuuuuuuuuuuuuuuu 💙
+nijam gaa naku chala nachuthavu for the way you are for the way you take care of the pepole you love 
+bangarammmm asallu nuvvu intha sweet person ni nenu first time kalisanu soo sweet ani sweets tintavu kabati antha sweet untava yetallaa (hahhahaaaaa)
 
 Ila undipoo. Nenu vagutha, nuvvu vinu. Appudu appudu nuvvu vagutha, naa manasu baguntadhi.
 
