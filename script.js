@@ -40,6 +40,8 @@ hmmmmmmmmmmm yento lee inka aapestha mari yekuva ayithundhi
 naakoo doubtuuu yenduku neeku antha pogaruuuuuu soodhi mokam andangaa untavu anekadha okaru kaka pothe inkokaru easy gaa padipotharu ani kadha(hahahahahaah)
 kani pinchavu kani chala ante chala chala ante chala chala chala yekuva neekkuuu pogaruuuuuuuuuuuu (certified by Sudharshini)
 nijam gaa baguntavu lee andagadiviiiii (eyuuuuuu)
+inka chepali ante yekada kopam tepistavu ante the way u ignoreeee(BP BP Vatadhi naakuuu) nuvvu eemata oopukovu ani telusu kani adheee nijammm bale ignore chestavuuuu 
+nenu nerchukovali asallu naaku ala undatam chethakadheeee nercheskuntalee neetho unte inkonirojjuulluu (eeeeeeeeee)
 
 
 HAPPY FRIENDSHIP DAY RAA SOODHHIIIII 💙
